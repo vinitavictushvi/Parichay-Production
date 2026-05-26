@@ -1,5 +1,5 @@
 import heroVideo from "../../assets/Hero.mp4";
-import founderImg from "../../assets/Founder.png";
+import founderImg from "../../assets/founder.png";
 import "../Css/Home.css";
 import React, { useEffect, useRef, useState } from "react";
 
