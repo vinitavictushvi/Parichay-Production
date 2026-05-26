@@ -4,8 +4,7 @@ import React, {
 } from "react";
 
 import "../Css/Services.css";
-
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 
 import {
   Link,

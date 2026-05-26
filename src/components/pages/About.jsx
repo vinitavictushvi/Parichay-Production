@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import "../Css/About.css";
 
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 
 import { Link, useNavigate } from "react-router-dom";
 

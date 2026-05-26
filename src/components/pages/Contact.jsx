@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../Css/Contact.css";
 import { Link } from "react-router-dom";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 import toast, { Toaster } from "react-hot-toast";
 
 import {
